@@ -1,8 +1,18 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Programming Resources
+description: A list of programming resources for a wide variety of topics that I work on.
 theme: just-the-docs
+color_scheme: dark
 
 url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+  aux_links_new_tab: true
+
+nav_enabled: true
+
+callouts:
+  warning:
+    title: Warning
+    color: red

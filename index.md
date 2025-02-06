@@ -1,7 +1,11 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
+
+{: .warning }
+This is a test site that I am currently messing with to learn Jekyll. At this time I would not bookmark anything until this warning is removed.
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
