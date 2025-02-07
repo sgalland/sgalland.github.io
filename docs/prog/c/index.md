@@ -1,11 +1,9 @@
 ---
-title: Assembly
+title: C
 layout: default
 parent: Programming Languages
-nav_order: 1
+nav_order: 2
 ---
-
-# Intel x86
 
 | Name                             | Author    | C Standard | Description                                  |
 | -------------------------------- | --------- | ---------- | -------------------------------------------- |
