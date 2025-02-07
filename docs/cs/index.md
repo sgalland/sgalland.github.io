@@ -6,7 +6,7 @@ nav_order: 2
 
 https://www.youtube.com/watch?v=iE7YRHxwoDs
 
-# Suggested Courses
+# Suggested Courses for a Generalized Education
 
 | Course                                    | Discipline                     | School          | Description |
 | ----------------------------------------- | ------------------------------ | --------------- | ----------- |
@@ -22,3 +22,12 @@ https://www.youtube.com/watch?v=iE7YRHxwoDs
 |                                           | Databases                      |                 |             |
 |                                           |                                |                 |             |
 |                                           |                                |                 |             |
+
+# Suggested Courses for C Based Education
+| Course  | Discipline          | School    | Description |
+| ------- | ------------------- | --------- | ----------- |
+|         | Intro to CS         |           |             |
+|         | Intro to CS         |           |             |
+| COS 217 | Systems Programming | Princeton |             |
+|         | Compilers           |           |             |
+|         | Operating Systems   |           |             |
