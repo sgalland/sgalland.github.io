@@ -1,8 +1,10 @@
 ---
 title: Test 1
-parent: Sierra AGI Specification
+parent: Sierra AGI Specifications
+layout: default
 nav_order: 1
-___
+---
+
 
 # Test 1
 adfsdfsdfad

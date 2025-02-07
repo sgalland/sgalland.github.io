@@ -1,7 +1,7 @@
 ---
-title: Sierra AGI Specification
+title: Sierra AGI Specifications
 layout: default
-nav_order: 3
+nav_order: 4
 ---
 
 # Sierra AGI Specification
