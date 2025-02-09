@@ -4,6 +4,9 @@ layout: default
 nav_order: 2
 ---
 
+CMSC has some interesting free courses, they had can OSTEP course:s
+https://www.youtube.com/results?search_query=CSMC+UPLB
+
 https://www.coursera.org/specializations/computational-thinking-c-programming
 
 https://teachyourselfcs.com/
