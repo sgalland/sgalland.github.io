@@ -13,7 +13,7 @@ python_url: https://www.reddit.com/r/learnpython/comments/hq6fk8/stanford_cs106a
 
 # {{ page.class_code}}: {{ page.subtitle }}
 
-| School: {{ page.school }} | Instructor: {{ page.instructor }} | [Older Java Course]({{ page.java_url}}) |[Python Course]({{ page.python_url}}) |
+| School: {{ page.school }} | Instructor: {{ page.instructor }} | [Java Course]({{ page.java_url}}) |[Python Course]({{ page.python_url}}) |
 
 
 

@@ -13,7 +13,7 @@ nav_order: 2
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | CS106A            | [Programming Methodology](../cs/programming/stanford-cs106a.html)                                                                             |
 | CS106B            | [Programming Abstractions](../cs/programming/stanford-cs106b.html)                                                                            |
-| CS106L            | [Stanford C++ Programming](https://www.youtube.com/playlist?list=PLCgD3ws8aVdolCexlz8f3U-RROA0s5jWA)                                          |
+| CS106L            | [Stanford C++ Programming](../cs/programming/stanford-cs106l.html)                                                                            |
 | CS106B\X          | [Programming Abstractions in C++](https://csdiy.wiki/en/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/cpp/CS106B_CS106X/)                              |
 | CS109             | [Introduction to Probability for Computer Scientists](https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)    |
 | CS110L            | [Safety in Systems Programming](https://www.youtube.com/@RyanEberhardt)                                                                       |
