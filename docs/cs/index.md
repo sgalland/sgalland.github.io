@@ -40,7 +40,7 @@ Another site trying to do the same thing I am - [CSDIY](https://csdiy.wiki/en/)
 
 | Course                                    | Discipline                     | School          |
 | ----------------------------------------- | ------------------------------ | --------------- |
-| [CS50](programming/cs50.html)             |                                | Harvard         |
+| [CS50](programming/hardvard-cs50.html)    |                                | Harvard         |
 | [CS61A](programming/cs61a.html)           | Programming                    | Berkley         |
 | Algorithms, Part 1                        | Algorithms and Data Structures | Princeton       |
 | Algorithms, Part 2                        | Algorithms and Data Structures | Princeton       |
@@ -73,7 +73,7 @@ https://x.com/7etsuo/status/1815296751571804243
 | CS184   | [Fundamentals of Computer Graphics](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs184-fall2012-berkeley.html)                                                                                                                                         |
 | CS186   | [Introduction to Database Systems](https://www.youtube.com/playlist?list=PLYp4IGUhNFmw8USiYMJvCUjZe79fvyYge)                                                                                                                                                                        |
 | CS188   | Introduction to Artificial Intelligence [Spring 2015](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs188-spring2015-berkeley.html) [Fall 2011](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs188-fall2011-berkeley.html) |
-| CS194   | [Advanced Operating Systems Structures and Implementation](https://archive.org/details/ucberkeley_webcast_itunesu_596644870)                                                                                                                                                        |
+| CS194   | [Advanced Operating Systems Structures and Implementation](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE?sort=title)                                                                                                                            |
 | CS195   | [Social Implications of Computing](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs195-spring2015-berkeley.html)                                                                                                                                        |
 | CS C149 | [Introduction to Embedded Systems](http://www.infocobuild.com/education/audio-video-courses/computer-science/eecs149-berkeley.html)                                                                                                                                                 |
 | CS267   | Applications of Parallel Computers [Sprint 2015](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs267-spring2015-berkeley.html) [Sprint 2017](https://sites.google.com/a/lbl.gov/cs267-spring-2017/)                                                     |
@@ -117,7 +117,7 @@ https://archived-bulletin.stanford.mobi/schoolofengineering/computerscience/#bac
 
 | Course            | Discipline                                                                                                                                 |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| CS106A            | [Programming Methodology](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852)                                                        |
+| CS106A            | [Programming Methodology](../cs/programming/stanford-cs106a.html)                                                                          |
 | CS106B            | [Programming Abstractions](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWiqgyzwAz_uGLSHsuYZlMX)                                       |
 | CS106L            | [Standard C++ Programming](https://www.youtube.com/channel/UCSqr6y-eaQT_qZJVUm_4QxQ/playlists)                                             |
 | CS106B\X          | [Programming Abstractions in C++](https://csdiy.wiki/en/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/cpp/CS106B_CS106X/)                           |
