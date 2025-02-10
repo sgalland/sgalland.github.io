@@ -58,6 +58,8 @@ Another site trying to do the same thing I am - [CSDIY](https://csdiy.wiki/en/)
 
 https://x.com/7etsuo/status/1815296751571804243
 
+https://eecs.berkeley.edu/resources/undergrads/cs/
+
 | Course  | Name                                                                                                                                                                                                                                                                                |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CS61A   | [Structure and Interpretation of Computer Programs](../cs/programming/cs61a.html)                                                                                                                                                                                                   |
