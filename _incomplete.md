@@ -24,11 +24,12 @@ Another site trying to do the same thing I am - [CSDIY](https://csdiy.wiki/en/)
 
 | Course  | Discipline                                                                                                                                      | Syllabus                                                                 | School          |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------- |
-| CS 61C  | [Great Ideas in Computer Architecture (Machine Structures)](https://www.youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)           |                                                                          | Berkley         |
+| CS50    | Introduction to Computer Science                                                                                                                |                                                                          | Harvard         |
 | COS 217 | [Introduction to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall21/cos217/)                                              | [Fall 2020](https://www.cs.princeton.edu/courses/archive/fall20/cos217/) | Princeton       |
 | 15-213  | [Intro to Computer Sytems](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22) |                                                                          | Carnegie Mellon |
 |         | Compilers                                                                                                                                       |                                                                          |                 |
 | CS 162  | [Operating Systems](https://www.youtube.com/playlist?list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM)                                                   |                                                                          | Berkley         |
+| CS 61C  | [Great Ideas in Computer Architecture (Machine Structures)](https://www.youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)           |                                                                          | Berkley         |
 
 
 
