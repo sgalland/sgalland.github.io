@@ -13,11 +13,11 @@ nav_order: 2
 
 | Course            | Name                                                                                                                                                               |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| CS103             | [Mathematical Foundations of Computing](https://online.stanford.edu/courses/cs103-mathematical-foundations-computing)                                              |
+| CS103             | Mathematical Foundations of Computing                                                                                                                              |
 | CS106A            | [Programming Methodology](../cs/programming/stanford-cs106a.html)                                                                                                  |
 | CS106B            | [Programming Abstractions](../cs/programming/stanford-cs106b.html)                                                                                                 |
+| CS106X            | [Programming Abstractions in C++](../cs/programming/stanford-cs106bx.html)                                                                                         |
 | CS106L            | [Stanford C++ Programming](../cs/programming/stanford-cs106l.html)                                                                                                 |
-| CS106B\X          | [Programming Abstractions in C++](https://csdiy.wiki/en/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/cpp/CS106B_CS106X/)                                                   |
 | CS107             | [Programming Paradigms](https://www.youtube.com/playlist?list=PL8ED50412A17D4C8B)                                                                                  |
 | CS107             | [Computer Organization and Systems](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN) [Course Site](https://web.stanford.edu/class/cs107/) |
 | CS109             | [Introduction to Probability for Computer Scientists](https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)                         |
