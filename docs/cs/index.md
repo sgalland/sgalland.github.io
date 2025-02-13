@@ -9,6 +9,8 @@ nav_order: 2
 
 [Bachelor Requirements](https://archived-bulletin.stanford.mobi/schoolofengineering/computerscience/#bachelortext)
 
+[ChatGPT Generated Course List](../cs/chatgpt-stanford.html)
+
 | Course            | Name                                                                                                                                                               |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | CS103             | [Mathematical Foundations of Computing](https://online.stanford.edu/courses/cs103-mathematical-foundations-computing)                                              |
