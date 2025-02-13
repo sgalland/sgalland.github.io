@@ -1,0 +1,118 @@
+## Year 1: Foundations and Introduction
+### Fall Quarter
+1. CS106A - Programming Methodology
+    
+    Introduction to programming using Python (or another language), learning basic algorithms and data structures.
+2. MATH19 - Calculus
+    
+    Foundations of calculus, including differentiation and integration.
+3. ENGR 14 - Introduction to Engineering
+   
+    A broad look at the types of engineering, can also count as a general education requirement.
+4. Writing and Rhetoric (Writ 1 or 2)
+   
+    Introduction to academic writing and communication.
+### Winter Quarter
+1. CS106B - Programming Abstractions
+   
+    Continuation from CS106A, focuses on data structures like linked lists, binary trees, and recursion.
+2. MATH51 - Linear Algebra
+    
+    Study of vector spaces, matrix operations, eigenvalues, and applications to computer science.
+3. Physics 41 - Mechanics and Relativity
+    
+    An introductory physics course, including classical mechanics and relativity.
+4. Humanities/Social Sciences
+    
+    A general education requirement.
+### Spring Quarter
+1. CS107 - Computer Organization and Systems
+
+    Introduction to how computers work at the hardware level, including memory, processes, and assembly language.
+
+2. MATH 52 - Multivariable Calculus
+
+    Extending calculus to higher dimensions and applications in physics and engineering.
+3. Physics 43 - Electromagnetism and Waves
+
+    Continuation of the physics sequence.
+
+4. Humanities/Social Sciences
+    
+    Another general education course.
+
+## Year 2: Core Computer Science Concepts
+### Fall Quarter
+CS109 - Introduction to Probability for Computer Scientists
+Covers probability theory and its applications to computing.
+CS110 - Principles of Computer Systems
+Introduction to operating systems and system programming.
+MATH 113 - Discrete Mathematics and Probability Theory
+Core concepts for CS, such as graph theory, logic, combinatorics, and discrete probability.
+Humanities/Social Sciences or Interdisciplinary
+Another general education course.
+Winter Quarter
+CS161 - Design and Analysis of Algorithms
+Introduction to algorithms, focusing on efficiency and solving problems like sorting, graph algorithms, etc.
+CS144 - Introduction to Computer Networking
+Study of networking protocols, TCP/IP, and how the internet works.
+MATH 115 - Introduction to Proofs
+Developing mathematical proof-writing skills, essential for advanced CS topics.
+Humanities/Social Sciences or Interdisciplinary
+Another general education course.
+Spring Quarter
+CS168 - Introduction to the Theory of Computation
+Learn about automata, computability, and complexity theory.
+CS143 - Compilers
+Introduction to the design and implementation of compilers.
+CS221 - Artificial Intelligence: Principles and Techniques
+Fundamentals of AI, including search algorithms, logic, and decision-making.
+Humanities/Social Sciences or Interdisciplinary
+Another general education course.
+Year 3: Advanced Topics and Electives
+Fall Quarter
+CS229 - Machine Learning
+Deep dive into supervised and unsupervised learning techniques.
+CS224N - Natural Language Processing with Deep Learning
+Study of NLP concepts and deep learning models for language tasks.
+Elective
+Choose an elective based on personal interest (e.g., Web Development, Advanced Algorithms, etc.).
+Humanities/Social Sciences or Interdisciplinary
+Another general education course.
+Winter Quarter
+CS241 - Advanced Topics in Operating Systems
+Learn about modern OS concepts such as distributed systems and file systems.
+CS230 - Deep Learning
+Explore neural networks, backpropagation, and architectures like CNNs, RNNs.
+CS229T - Statistical Learning
+Focus on the statistical foundations of machine learning.
+Elective
+Another elective based on interest or specialization.
+Spring Quarter
+CS252 - Computer Architecture
+Advanced study of computer organization, processor design, and architecture optimization.
+CS273 - Advanced AI Topics
+A focus on reinforcement learning, robotics, and other advanced AI subjects.
+CS347 - Human-Computer Interaction
+Study how humans interact with computers and how to design effective user interfaces.
+Elective
+Choose an elective based on interests or career goals.
+Year 4: Specialization and Capstone
+Fall Quarter
+CS221 - Artificial Intelligence: Advanced Topics
+Further study into cutting-edge AI topics.
+CS257 - Advanced Algorithms
+Study of algorithms in depth, including NP-completeness, approximation algorithms, and advanced data structures.
+Research/Capstone Project
+Begin an independent research project or work on a capstone course. Could involve AI, systems, or another area of interest.
+Elective or Thesis Preparation
+Additional elective or focus on thesis work.
+Winter Quarter
+CS376 - Cloud Computing
+Learn about cloud infrastructures, architectures, and services.
+CS321 - Mobile App Development
+Develop skills in mobile application programming and deployment.
+Capstone/Thesis
+Continue work on your capstone project or research thesis.
+Elective
+Select an elective based on your chosen focus area.
