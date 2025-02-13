@@ -19,3 +19,4 @@ python_url: https://www.reddit.com/r/learnpython/comments/hq6fk8/stanford_cs106a
 
 Java book - https://people.reed.edu/~jerry/121/materials/artsciencejava.pdf
 Karel the Robot Learn Java - https://cs.stanford.edu/people/eroberts/karel-the-robot-learns-java.pdf
+How to setup eclipse - https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1174/handouts/eclipse.html

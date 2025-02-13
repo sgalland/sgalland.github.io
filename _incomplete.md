@@ -24,11 +24,12 @@ Another site trying to do the same thing I am - [CSDIY](https://csdiy.wiki/en/)
 
 | Course  | Discipline                                                                                                                                      | Syllabus                                                                 | School          |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------- |
-| CS 61C  | [Great Ideas in Computer Architecture (Machine Structures)](https://www.youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)           |                                                                          | Berkley         |
+| CS50    | Introduction to Computer Science                                                                                                                |                                                                          | Harvard         |
 | COS 217 | [Introduction to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall21/cos217/)                                              | [Fall 2020](https://www.cs.princeton.edu/courses/archive/fall20/cos217/) | Princeton       |
 | 15-213  | [Intro to Computer Sytems](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22) |                                                                          | Carnegie Mellon |
 |         | Compilers                                                                                                                                       |                                                                          |                 |
 | CS 162  | [Operating Systems](https://www.youtube.com/playlist?list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM)                                                   |                                                                          | Berkley         |
+| CS 61C  | [Great Ideas in Computer Architecture (Machine Structures)](https://www.youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)           |                                                                          | Berkley         |
 
 
 
@@ -57,6 +58,8 @@ Another site trying to do the same thing I am - [CSDIY](https://csdiy.wiki/en/)
 
 https://x.com/7etsuo/status/1815296751571804243
 
+https://eecs.berkeley.edu/resources/undergrads/cs/
+
 | Course  | Name                                                                                                                                                                                                                                                                                |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CS61A   | [Structure and Interpretation of Computer Programs](../cs/programming/cs61a.html)                                                                                                                                                                                                   |
@@ -66,6 +69,7 @@ https://x.com/7etsuo/status/1815296751571804243
 | CS162   | Operating Systems and Systems Programming [Fall 2013](https://www.youtube.com/playlist?list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM) [Fall 2020](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)                                                               |
 | CS164   | [Programming Languages and Compilers](https://www.youtube.com/playlist?list=PLzAv_uHZw7dRe2qN8KUXvosen4g0HVGpF)                                                                                                                                                                     |
 | CS169A  | [Introduction to Software Engineering](https://www.youtube.com/watch?v=dtMQ95MoG9s&list=PLimVAEp0WdfL0g6ULPs3sF3uZDivfT4xd)                                                                                                                                                         |
+| CS170   | [Efficient Algorithms and Intractable Problems](https://archive.org/details/ucberkeley_webcast_itunesu_496893325)                                                                                                                                                                   |
 | CS184   | [Fundamentals of Computer Graphics](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs184-fall2012-berkeley.html)                                                                                                                                         |
 | CS186   | [Introduction to Database Systems](https://www.youtube.com/playlist?list=PLYp4IGUhNFmw8USiYMJvCUjZe79fvyYge)                                                                                                                                                                        |
 | CS188   | Introduction to Artificial Intelligence [Spring 2015](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs188-spring2015-berkeley.html) [Fall 2011](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs188-fall2011-berkeley.html) |
@@ -79,21 +83,30 @@ https://x.com/7etsuo/status/1815296751571804243
 
 http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/#bscurriculumtextcontainer
 
-| Course | Name                                                                                                                                                                                                                                     |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 15-112 | Fundamentals of Programming and Computer Science                                                                                                                                                                                         |
-| 15-150 | Principles of Functional Programming                                                                                                                                                                                                     |
-| 15-210 | Parallel and Sequential Data Structures and Algorithms                                                                                                                                                                                   |
-| 15-213 | [Introduction to Computer Systems](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22)                                                                                  |
-| 15-418 | [Parallel Computer Architecture and Programming] [CMU](https://mediaservices.cmu.edu/channel/15-418+Parallel+Computer+Architecture+and+Programming/) [YouTube](https://www.youtube.com/playlist?list=PLMDSb3PWPnvivPLXHM9SlZLljrO9unIAW) |
-| 15-451 | Algorithm Design and Analysis                                                                                                                                                                                                            |
-|        |                                                                                                                                                                                                                                          |
-|        |                                                                                                                                                                                                                                          |
-|        |                                                                                                                                                                                                                                          |
-|        |                                                                                                                                                                                                                                          |
-|        |                                                                                                                                                                                                                                          |
-|        |                                                                                                                                                                                                                                          |
+| Course | Name                                                                                                                                                    | Materials                                               |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 15-112 | [Fundamentals of Programming and Computer Science](https://www.youtube.com/playlist?list=PLC0F1C40D4ACFE81F)                                            | [Course Site](https://www.cs.cmu.edu/~15122/home.shtml) |
+| 15-150 | [Principles of Functional Programming](https://www.youtube.com/playlist?list=PLsydD1kw8jng2t2G8USQNLz0faYZetPnH)                                        | [Course Site](https://www.cs.cmu.edu/~15150/)           |
+| 15-210 | Parallel and Sequential Data Structures and Algorithms                                                                                                  | [Course Site](https://csd.cmu.edu/course/15210/f24)     |
+| 15-213 | [Introduction to Computer Systems](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22) | [Course Site](https://www.cs.cmu.edu/~213/)             |
+| 15-418 | [Parallel Computer Architecture and Programming] [CMU](https://mediaservices.cmu.edu/channel/15-418+Parallel+Computer+Architecture+and+Programming/)    |                                                         |
+|        | [YouTube](https://www.youtube.com/playlist?list=PLMDSb3PWPnvivPLXHM9SlZLljrO9unIAW)                                                                     |                                                         |
+|        | [YouTube](https://www.youtube.com/watch?v=zLP_X4wyHbY)                                                                                                  |                                                         |  |
+| 15-451 | Algorithm Design and Analysis                                                                                                                           |                                                         |
+|        |                                                                                                                                                         |                                                         |
+|        |                                                                                                                                                         |                                                         |
+|        |                                                                                                                                                         |                                                         |
+|        |                                                                                                                                                         |                                                         |
+|        |                                                                                                                                                         |                                                         |
+|        |                                                                                                                                                         |                                                         |
 
+# Hardvard
+
+| Course | Name                                                                                                              | Materials                                                                  |
+| ------ | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| CS 50  | [Introduction to Computer Science](https://cs50.harvard.edu/x/2025/)                                              | [Course Site](https://web.archive.org/web/20230227075319/https://cs51.io/) |
+| CS 51  | [Abstraction and Design in Computation](https://www.youtube.com/playlist?list=PLxA7uoRZbzXlW0XjbtuWow6PmPHe4vU7p) |                                                                            |
+|        |                                                                                                                   |                                                                            |
 
 
 # Princeton
@@ -102,4 +115,9 @@ http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/underg
 | ------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | COS 126 | [Computer Science An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/fall17/cos126/) | [Videos](https://www.youtube.com/playlist?list=PLlGXNwjYhXYyEReAh8M4vIGNulIzNHzMY) |
 | COS 217 | [Introduction to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall20/cos217/)            | [Videos](https://www.youtube.com/playlist?list=PLwXw5yrGdQS55Q2ZODSqDNjm7Zhk4wFE3) |
-|         |                                                                                                               |                                                                                    |
+| COS 240 | Reasoning and Computation                                                                                     |                                                                                    |
+| COS 316 | Principles of Computer Systems                                                                                |                                                                                    |
+| COS 375 | Computer Architecture and Organization                                                                        |                                                                                    |
+| COS 417 | Operating Systems                                                                                             |                                                                                    |
+| COS 418 | Distributed Systems                                                                                           |                                                                                    |
+| COS 461 | Computer Networks                                                                                             |                                                                                    |
