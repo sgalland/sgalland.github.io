@@ -1,6 +1,6 @@
 ---
 title: Stanford - ChatGPT Generated Course Progression
-parent: Programming
+parent: Computer Science
 layout: default
 ---
 
