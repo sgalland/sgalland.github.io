@@ -27,7 +27,7 @@ layout: default
 | CS161             | [Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLyhSTP3Z5_mZ8krUa2JsvL7V755ogHgkK)                                                      |
 | CS140             | [Operating Systems and Systems Programming](https://web.stanford.edu/class/archive/cs/cs140/cs140.1088/)                                                           |
 | CS142             | [Web Applications](https://web.stanford.edu/class/cs142/lectures.html)                                                                                             |
-| CS143             | [Compilers](https://www.youtube.com/playlist?list=PLoCMsyE1cvdUZRe1udlyjpzTww1U5olL2) [Course Site](https://web.stanford.edu/class/cs143/)                         |
+| CS143             | [Compilers](https://archive.org/details/academictorrents_b7579be97c2f01e4efadb0b6b06f0d071afeaac9) [Course Site](https://web.stanford.edu/class/cs143/)            |
 | CS144             | [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS)                                                    |
 | CS148             | [Introduction to Computer Graphics and Imaging](https://web.stanford.edu/class/cs148/index.html)                                                                   |
 | CS149             | [Parallel Computing](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)                                                                     |
