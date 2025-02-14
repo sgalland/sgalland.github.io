@@ -5,4 +5,11 @@ parent: Programming Languages
 nav_order: 5
 ---
 
-[Stanford CS106A](https://learncs.me/stanford/cs106a)
+# Books by Programmer Level
+
+## Beginner
+
+| Book            | Author                   |
+| --------------- | ------------------------ |
+| Head First Java | Bert Bates, Kathy Sierra |
+
