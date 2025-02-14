@@ -1,20 +1,22 @@
 ---
-title: Stanford Computer Science
+title: Stanford
 parent: Computer Science Courses by School
 layout: default
 ---
 
 # {{ page.title }}
 
-# Stanford
+{: .warning }
+This is a work in progress, expect changes.
 
 [Bachelor Requirements](https://archived-bulletin.stanford.mobi/schoolofengineering/computerscience/#bachelortext)
 
-[ChatGPT Generated Course List](../cs/chatgpt-stanford.html)
+[ChatGPT Generated Course List](../chatgpt-stanford.html)
 
 | Course            | Name                                                                                                                                                               |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | CS103             | Mathematical Foundations of Computing                                                                                                                              |
+| CS105             | [Introduction to Computers](https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN)                                                              |
 | CS106A            | [Programming Methodology](../programming/stanford-cs106a.html)                                                                                                     |
 | CS106B            | [Programming Abstractions](../programming/stanford-cs106b.html)                                                                                                    |
 | CS106X            | [Programming Abstractions in C++](../programming/stanford-cs106bx.html)                                                                                            |
@@ -36,6 +38,7 @@ layout: default
 | CS224w            | [Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA)                                                                                        |
 | CS229             | [Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)                                                            |
 | CS231n            | [CNN for Visual Recognition](https://cs231n.stanford.edu/) [Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)                      |
+| CS236             | [Deep Generative Models](https://www.youtube.com/watch?v=XZ0PMRWXBEU&list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)                                                      |
 | CS240             | Advanced Topics in Operating Systems                                                                                                                               |
 | CS244             | Advanced Topics in Networking                                                                                                                                      |
 | CS244B            | Distributed Systems                                                                                                                                                |
