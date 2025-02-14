@@ -11,16 +11,16 @@ This is a work in progress, expect changes.
 
 [Bachelor Requirements](https://archived-bulletin.stanford.mobi/schoolofengineering/computerscience/#bachelortext)
 
-[ChatGPT Generated Course List](../chatgpt-stanford.html)
+[ChatGPT Generated Course List](./chatgpt-stanford.html)
 
 | Course            | Name                                                                                                                                                               |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | CS103             | Mathematical Foundations of Computing                                                                                                                              |
 | CS105             | [Introduction to Computers](https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN)                                                              |
-| CS106A            | [Programming Methodology](../programming/stanford-cs106a.html)                                                                                                     |
-| CS106B            | [Programming Abstractions](../programming/stanford-cs106b.html)                                                                                                    |
-| CS106X            | [Programming Abstractions in C++](../programming/stanford-cs106bx.html)                                                                                            |
-| CS106L            | [Stanford C++ Programming](../programming/stanford-cs106l.html)                                                                                                    |
+| CS106A            | [Programming Methodology](./stanford-cs106a.html)                                                                                                                  |
+| CS106B            | [Programming Abstractions](./stanford-cs106b.html)                                                                                                                 |
+| CS106X            | [Programming Abstractions in C++](./stanford-cs106bx.html)                                                                                                         |
+| CS106L            | [Stanford C++ Programming](./stanford-cs106l.html)                                                                                                                 |
 | CS107             | [Programming Paradigms](https://www.youtube.com/playlist?list=PL8ED50412A17D4C8B)                                                                                  |
 | CS107             | [Computer Organization and Systems](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN) [Course Site](https://web.stanford.edu/class/cs107/) |
 | CS109             | [Introduction to Probability for Computer Scientists](https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)                         |
