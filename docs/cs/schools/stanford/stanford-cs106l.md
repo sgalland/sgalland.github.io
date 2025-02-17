@@ -1,7 +1,7 @@
 ---
-title: Stanford - C++ Programming
+title: Stanford - Stanford C++ Programming
 class_code: CS106L
-subtitle: C++ Programming
+subtitle: Stanford C++ Programming
 parent: Programming
 layout: default
 nav_order: 1
