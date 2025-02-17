@@ -19,10 +19,8 @@ This course teaches the topics of recursion, algorithms, and abstraction using C
 
 This course is an older course hosted on Stanford Engineering Everywhere, thus all materials can be downloaded.
 
-| School: {{ page.school }} | Instructor: Marty Stepp | [YouTube 2018]({{ page.2018_videos}}) | 
+| School: {{ page.school }} | Instructor: Marty Stepp | [YouTube 2018]({{ page.2018_videos}}) | [Course Site](https://web.archive.org/web/20180214133655/http://web.stanford.edu:80/class/cs106b/) |
 
-https://web.archive.org/web/20180214133655/http://web.stanford.edu:80/class/cs106b/
-
-| School: {{ page.school }} | Section Leader: Avery Wang | [Spring 2019](page.spring_2019_videos) |
+| School: {{ page.school }} | Section Leader: Avery Wang | [Spring 2019]({{ page.spring_2019_videos }}) |
 
 This is a set of videos for a section (a group of students working with a teacher assistant) working on CS106B. While it is not a class, it might be useful to watch along with a class.

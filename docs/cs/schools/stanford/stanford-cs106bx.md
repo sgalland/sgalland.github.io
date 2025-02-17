@@ -12,8 +12,4 @@ course_videos: https://www.youtube.com/playlist?list=PLoCMsyE1cvdVmbGH6Jp-9twXPb
 
 # {{ page.class_code}}: {{ page.subtitle }}
 
-
-
-| School: {{ page.school }} | Instructor: UPDATE ME | [Videos]({{ page.course_videos }}) | [Class Page]({{ page.course_url }}) |
-
-https://csdiy.wiki/en/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/cpp/CS106B_CS106X/#descriptions
+| School: {{ page.school }} | Instructor: Marty Stepp | [Videos]({{ page.course_videos }}) | [Class Page]({{ page.course_url }}) |

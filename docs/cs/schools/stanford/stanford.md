@@ -21,7 +21,7 @@ This is a work in progress, expect changes.
 | CS106B            | [Programming Abstractions](./stanford-cs106b.html)                                                                                                                 |
 | CS106X            | [Programming Abstractions in C++](./stanford-cs106bx.html)                                                                                                         |
 | CS106L            | [Stanford C++ Programming](./stanford-cs106l.html)                                                                                                                 |
-| CS107             | [Programming Paradigms](https://www.youtube.com/playlist?list=PL8ED50412A17D4C8B)                                                                                  |
+| CS107             | [Programming Paradigms](https://see.stanford.edu/course/cs107)                                                                                                     |
 | CS107             | [Computer Organization and Systems](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN) [Course Site](https://web.stanford.edu/class/cs107/) |
 | CS109             | [Introduction to Probability for Computer Scientists](https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)                         |
 | CS110             | [Principles of Computer Systems](https://www.youtube.com/playlist?list=PLu77E6J7s6Ko3Ft4XcOX1yKW6iX3eEFqS)                                                         |
