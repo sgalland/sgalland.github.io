@@ -7,6 +7,9 @@ Older Bachelors requirements:
 
 https://web.archive.org/web/20150821005116/https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 
+Other MIT Stuff:
+https://www.youtube.com/@mitocw/playlists
+
 ### Required Subjects
 | Course | Name                                                                                                                                    |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------- |
