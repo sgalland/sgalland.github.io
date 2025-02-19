@@ -1,8 +1,8 @@
----
-title: Computer Science through the C Programming Language
-parent: Computer Science
-layout: default
----
+# ---
+# title: Computer Science through the C Programming Language
+# parent: Computer Science
+# layout: default
+# ---
 
 # {{ page.title }}
 
