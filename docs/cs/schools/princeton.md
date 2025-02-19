@@ -1,9 +1,3 @@
----
-title: Princeton
-parent: Computer Science Courses by School
-layout: default
----
-
 # Princeton
 
 | Course  | Name                                                                                                          | Materials                                                                          |
