@@ -1,6 +1,6 @@
 ---
 title: Stanford - ChatGPT Generated Course Progression
-title: Stanford
+parent: Stanford
 layout: default
 ---
 
