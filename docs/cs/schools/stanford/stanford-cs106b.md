@@ -15,6 +15,10 @@ spring_2019_videos: https://www.youtube.com/playlist?list=PLCgD3ws8aVdrugzrofJy_
 
 This course teaches the topics of recursion, algorithms, and abstraction using C++.
 
+Book: https://web.stanford.edu/dept/cs_edu/resources/textbook/
+
+Stanford C++ Libraries: https://github.com/zelenski/stanford-cpp-library
+
 | School: {{ page.school }} | Instructor: Julie Zelenski | [Stanford Engineering Everywhere](https://see.stanford.edu/Course/CS106B) | 
 
 This course is an older course hosted on Stanford Engineering Everywhere, thus all materials can be downloaded.
