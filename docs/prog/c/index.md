@@ -51,26 +51,36 @@ http://cs.yale.edu/home/aspnes/classes/223/notes.html
 
 https://www.coursera.org/specializations/c-programming
 
+https://open.umn.edu/opentextbooks/subjects/computer-science-information-systems
+
 ## Free Resources
 
 ### Books
 
 https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c
+https://www.reddit.com/r/C_Programming/comments/872rlt/c_project_based_tutorials/
 
-| Name                                                                                                            | Author                                    | C Standard | Description                                  |
-| --------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | -------------------------------------------- |
-| [The C Book](https://publications.gbdirect.co.uk/c_book/)                                                       | Mike Banahan, Declan Brady and Mark Doran | C89        | A solid beginner book with lots of examples. |
-| [C Elements of Style](http://www.oualline.com/books.free/style/index.html)                                      | Steve Oualline                            |            |                                              |
-| [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)                                                      | Jens Gusted                               | C23        |                                              |
-| [Algorithm Design (in C)](https://www.ime.usp.br/~pf/algorithms/)                                               | Paulo Feofiloff                           |            |                                              |
-| [Beejs Guide to C Programming](http://beej.us/guide/bgc/)                                                       | Brian Jorgansen                           |            |                                              |
-| [Dive into Systems](https://diveintosystems.org/book/)                                                          |                                           |            |                                              |
-| [Build Your Own Lisp](http://buildyourownlisp.com/)                                                             |                                           |            |                                              |
-| [C Programming Notes](https://www.eskimo.com/~scs/cclass/notes/top.html)                                        | Steve Summit                              |            |                                              |
-| [The GNU C Programming Tutorial](https://www.it.uc3m.es/pbasanta/asng/course_notes/ctut.pdf)                    | Mark Burgess                              |            |                                              |
-| [Learning GNU C](https://www.nongnu.org/c-prog-book/online/index.html)                                          |                                           |            |                                              |
-| [Programming in C UNIX System Calls and Subroutines using C](https://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html) | A.D. Marshall                             |            |                                              |
-| [Essential C](http://cslibrary.stanford.edu/101/)                                                               | Nick Parlante                             |            |                                              |
+| Name                                                                                                                                                    | Author                                    | C Standard | Description                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | -------------------------------------------- |
+| [The C Book](https://publications.gbdirect.co.uk/c_book/)                                                                                               | Mike Banahan, Declan Brady and Mark Doran | C89        | A solid beginner book with lots of examples. |
+| [C Elements of Style](http://www.oualline.com/books.free/style/index.html)                                                                              | Steve Oualline                            |            |                                              |
+| [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)                                                                                              | Jens Gusted                               | C23        |                                              |
+| [Algorithm Design (in C)](https://www.ime.usp.br/~pf/algorithms/)                                                                                       | Paulo Feofiloff                           |            |                                              |
+| [Beej's Guide to C Programming](http://beej.us/guide/bgc/)                                                                                              | Brian Jorgansen                           |            |                                              |
+| [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/html/multi/index.html)                                                                 |                                           |            |                                              |
+| [Dive into Systems](https://diveintosystems.org/book/)                                                                                                  |                                           |            |                                              |
+| [Build Your Own Lisp](http://buildyourownlisp.com/)                                                                                                     |                                           |            |                                              |
+| [C Programming Notes](https://www.eskimo.com/~scs/cclass/notes/top.html)                                                                                | Steve Summit                              |            |                                              |
+| [The GNU C Programming Tutorial](https://www.it.uc3m.es/pbasanta/asng/course_notes/ctut.pdf)                                                            | Mark Burgess                              |            |                                              |
+| [Learning GNU C](https://www.nongnu.org/c-prog-book/online/index.html)                                                                                  |                                           |            |                                              |
+| [Programming in C UNIX System Calls and Subroutines using C](https://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)                                         | A.D. Marshall                             |            |                                              |
+| [Essential C](http://cslibrary.stanford.edu/101/)                                                                                                       | Nick Parlante                             |            |                                              |
+| [Little OS Book](https://littleosbook.github.io/)                                                                                                       |                                           |            |                                              |
+| [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)                                                                        |                                           |            |                                              |
+| [Operating Systems: Three Easy Steps](https://pages.cs.wisc.edu/~remzi/OSTEP/)                                                                          |                                           |            |                                              |
+| [Compiler Design in C](https://holub.com/compiler/)                                                                                                     |                                           |            |                                              |
+| [How to Think Like a Computer Scientist: C Version](https://open.umn.edu/opentextbooks/textbooks/how-to-think-like-a-computer-scientist-c-version-1999) |                                           |            |                                              |
+| [Computer Science I](https://open.umn.edu/opentextbooks/textbooks/computer-science-i)                                                                   |                                           |            |                                              |
 
 ### Programming Tutorials
 
@@ -86,10 +96,9 @@ http://doctord.dyndns.org/Courses/UNH/CS610/Phil's_C_Course.htm
 
 https://c-faq.com/
 
-https://littleosbook.github.io/
 
 
-
+https://github.com/tuhdo/os01/tree/master
 
 
 
