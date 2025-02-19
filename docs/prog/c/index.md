@@ -86,6 +86,8 @@ http://doctord.dyndns.org/Courses/UNH/CS610/Phil's_C_Course.htm
 
 https://c-faq.com/
 
+https://littleosbook.github.io/
+
 
 
 
