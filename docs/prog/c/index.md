@@ -60,6 +60,20 @@ https://open.umn.edu/opentextbooks/subjects/computer-science-information-systems
 https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c
 https://www.reddit.com/r/C_Programming/comments/872rlt/c_project_based_tutorials/
 
+A Commentary on the Unix Operating System: https://bitsavers.org/pdf/att/unix/6th_Edition/Lions_-_A_Commentary_on_the_Unix_Operating_System_197705.pdf
+
+Source Code for A Commentary on the Unix Operating System: http://v6.cuzuco.com/
+
+xv6, A Modern Reimplementation of Unix V6: http://pdos.csail.mit.edu/6.828/xv6
+
+Note that OSTEP has xv6 labs
+
+HTML Version of Lions: https://warsus.github.io/lions-/
+
+Modern PDF (not scan) of Lions: http://www.lemis.com/grog/Documentation/Lions/
+
+https://www.distributed-systems.net/index.php/books/ds4/
+
 | Name                                                                                                                                                    | Author                                    | C Standard | Description                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | -------------------------------------------- |
 | [The C Book](https://publications.gbdirect.co.uk/c_book/)                                                                                               | Mike Banahan, Declan Brady and Mark Doran | C89        | A solid beginner book with lots of examples. |
