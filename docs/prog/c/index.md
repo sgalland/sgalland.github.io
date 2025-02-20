@@ -64,6 +64,8 @@ https://open.umn.edu/opentextbooks/subjects/computer-science-information-systems
 
 ### Books
 
+Course and has K&R C Book freely available - https://www.cc4e.com/
+
 https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c
 https://www.reddit.com/r/C_Programming/comments/872rlt/c_project_based_tutorials/
 
