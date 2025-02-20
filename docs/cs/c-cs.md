@@ -6,6 +6,12 @@
 
 # {{ page.title }}
 
+Mike Shah C Course: https://www.youtube.com/playlist?list=PLvv0ScY6vfd8M-Mi_Vyrg7KgISTW3Sklt
+Write Your Own OS: https://www.youtube.com/@writeyourownoperatingsystem
+https://www.youtube.com/@OpenSecurityTraining/playlists
+https://www.youtube.com/playlist?list=PLvaIU2QC2uvFnVxXe-XzXJfd4dXGz5qBB
+
+
 | Course                                                                                                                                                   |     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | [Duke - Programming Fundementals](https://www.coursera.org/learn/programming-fundamentals)                                                               |     |
