@@ -5,6 +5,13 @@ parent: Programming Languages
 nav_order: 2
 ---
 
+Dive into Systems course: https://www.cs.swarthmore.edu/~sukrit/cs31/s24/
+
+Mike Shah C Course: https://www.youtube.com/playlist?list=PLvv0ScY6vfd8M-Mi_Vyrg7KgISTW3Sklt
+Write Your Own OS: https://www.youtube.com/@writeyourownoperatingsystem
+https://www.youtube.com/@OpenSecurityTraining/playlists
+https://www.youtube.com/playlist?list=PLvaIU2QC2uvFnVxXe-XzXJfd4dXGz5qBB
+
 https://github.com/gurugio/lowlevelprogramming-university
 
 ```mermaid
