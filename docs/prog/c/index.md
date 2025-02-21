@@ -5,6 +5,8 @@ parent: Programming Languages
 nav_order: 2
 ---
 
+https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf
+
 Dive into Systems course: https://www.cs.swarthmore.edu/~sukrit/cs31/s24/
 
 Mike Shah C Course: https://www.youtube.com/playlist?list=PLvv0ScY6vfd8M-Mi_Vyrg7KgISTW3Sklt
