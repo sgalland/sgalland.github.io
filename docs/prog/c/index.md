@@ -5,6 +5,8 @@ parent: Programming Languages
 nav_order: 2
 ---
 
+CMake: https://hsf-training.github.io/hsf-training-cmake-webpage/index.html
+
 https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf
 
 Dive into Systems course: https://www.cs.swarthmore.edu/~sukrit/cs31/s24/
