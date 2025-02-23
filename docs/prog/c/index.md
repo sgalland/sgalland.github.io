@@ -18,6 +18,8 @@ https://www.youtube.com/playlist?list=PLvaIU2QC2uvFnVxXe-XzXJfd4dXGz5qBB
 
 https://github.com/gurugio/lowlevelprogramming-university
 
+https://www3.nd.edu/~dthain/compilerbook/
+
 ```mermaid
 flowchart TD;
     accTitle: the diamond pattern
