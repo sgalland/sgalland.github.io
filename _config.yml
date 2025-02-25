@@ -3,7 +3,7 @@ url: https://sgalland.github.io
 title: Programming Resources
 description: A list of programming resources for a wide variety of topics that I work on.
 theme: just-the-docs
-# color_scheme: dark
+color_scheme: dark
 
 aux_links:
   Github Repository: https://github.com/sgalland/sgalland.github.io
