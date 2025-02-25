@@ -6,9 +6,6 @@ layout: default
 
 # {{ page.title }}
 
-{: .warning }
-This is a work in progress, expect changes.
-
 [Bachelor Requirements](https://archived-bulletin.stanford.mobi/schoolofengineering/computerscience/#bachelortext)
 
 [ChatGPT Generated Course List](./chatgpt-stanford.html)
