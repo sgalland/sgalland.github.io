@@ -4,10 +4,6 @@ parent: Computer Science Courses by School
 layout: default
 ---
 
-https://github.com/isLinXu/Stanford-CS-Course/blob/main/README.en.md
-
-https://www.classcentral.com/list/stanford-pgqmp1a2b89
-
 # {{ page.title }}
 
 {: .warning }
@@ -19,6 +15,7 @@ This is a work in progress, expect changes.
 
 | Course            | Name                                                                                                                                                                                  |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CS20              | [Tensorflow for Deep Learning Research](https://www.youtube.com/playlist?list=PLIDllPt3EQZoS8gCP3cw273Cq9puuPLTg)                                                                     |
 | CS105             | [Introduction to Computers](./stanford-cs105.html)                                                                                                                                    |
 | CS106A            | [Programming Methodology](./stanford-cs106a.html)                                                                                                                                     |
 | CS106B            | [Programming Abstractions](./stanford-cs106b.html)                                                                                                                                    |
@@ -45,6 +42,7 @@ This is a work in progress, expect changes.
 | CS229             | [Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)                                                                               |
 | CS229             | [Machine Learning](https://see.stanford.edu/Course/CS229)                                                                                                                             |
 | CS231N            | [CNN for Visual Recognition](https://cs231n.stanford.edu/) [Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)                                         |
+| CS234             | [Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)                                                                                    |
 | CS236             | [Deep Generative Models](https://www.youtube.com/watch?v=XZ0PMRWXBEU&list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)                                                                         |
 | CS240             | Advanced Topics in Operating Systems                                                                                                                                                  |
 | CS244             | Advanced Topics in Networking                                                                                                                                                         |
@@ -53,5 +51,9 @@ This is a work in progress, expect changes.
 | CS243             | Program Analysis and Optimizations                                                                                                                                                    |
 | CS244             | Advanced Topics in Networking                                                                                                                                                         |
 | CS245             | Principles of Data-Intensive Systems                                                                                                                                                  |
+| CS246             | [Mining Massive Datasets](https://www.youtube.com/channel/UC_Oao2FYkLAUlUVkBfze4jg/videos)                                                                                            |
+| CS253             | [Web Security](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)                                                                                              |
+| CS330             | [Deep Multi-Task Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)                                                                             |
 | CS346             | [Database System Implementation](https://web.stanford.edu/class/cs346/2015/)                                                                                                          |
 | STATS214 / CS229M | [Machine Learning Theory](https://web.stanford.edu/class/stats214/)                                                                                                                   |
+| CS547             | [Human-Computer Interaction Seminar](https://www.youtube.com/playlist?list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD)                                                                        |
