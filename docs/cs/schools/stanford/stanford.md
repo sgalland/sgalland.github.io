@@ -4,6 +4,10 @@ parent: Computer Science Courses by School
 layout: default
 ---
 
+https://github.com/isLinXu/Stanford-CS-Course/blob/main/README.en.md
+
+https://www.classcentral.com/list/stanford-pgqmp1a2b89
+
 # {{ page.title }}
 
 {: .warning }
