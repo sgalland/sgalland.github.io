@@ -13,4 +13,6 @@ school: Stanford
 {: .note }
 This course was replaced by [CS107: Computer Organization and Systems](./stanford-cs107-cos.html)
 
-| [YouTube](https://see.stanford.edu/course/cs107) | 
+This course teaches advanced memory management in C and C++, the difference between imperative, object-oriented, and functional paradigms. This course also touches on Python, Objective-C, and C#.
+
+| [Stanford Engineering Everywhere](https://see.stanford.edu/course/cs107) | 
