@@ -1,5 +1,5 @@
 ---
-title: CS61B
+title: Berkley - CS61B Algorithms and Data Structures
 parent: Algorithms and Data Structures
 layout: default
 nav_order: 1
