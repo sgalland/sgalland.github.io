@@ -1,5 +1,5 @@
 ---
-title: CS61A
+title: Berkley - CS61A Structure and Interpretation of Computer Programs
 subtitle: Structure and Interpretation of Computer Programs
 parent: Programming
 layout: default
