@@ -17,7 +17,7 @@ This course teaches the topics of recursion, algorithms, and abstraction using C
 
 Book: https://web.stanford.edu/dept/cs_edu/resources/textbook/
 
-Stanford C++ Libraries: https://github.com/zelenski/stanford-cpp-library
+Stanford C++ Libraries: http://www.martinstepp.com/cppdoc/
 
 | School: {{ page.school }} | Instructor: Julie Zelenski | [Stanford Engineering Everywhere](https://see.stanford.edu/Course/CS106B) | 
 
