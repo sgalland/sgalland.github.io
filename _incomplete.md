@@ -55,6 +55,8 @@ Another site trying to do the same thing I am - [CSDIY](https://csdiy.wiki/en/)
 
 # Carnegie Mellon University
 
+Opencourseware: https://oli.cmu.edu/product-category/computer-science-programming-indep/
+
 http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/#bscurriculumtextcontainer
 
 | Course | Name                                                                                                                                                    | Materials                                               |
@@ -74,7 +76,9 @@ http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/underg
 |        |                                                                                                                                                         |                                                         |
 |        |                                                                                                                                                         |                                                         |
 
-# Hardvard
+# Harvard
+
+All open courses: https://pll.harvard.edu/catalog
 
 | Course | Name                                                                                                              | Materials                                                                  |
 | ------ | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
@@ -82,4 +86,10 @@ http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/underg
 | CS 51  | [Abstraction and Design in Computation](https://www.youtube.com/playlist?list=PLxA7uoRZbzXlW0XjbtuWow6PmPHe4vU7p) |                                                                            |
 |        |                                                                                                                   |                                                                            |
 
+# MIT
 
+Opencourseware: https://ocw.mit.edu/
+
+# Yale
+
+None
