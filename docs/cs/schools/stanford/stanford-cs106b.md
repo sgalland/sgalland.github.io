@@ -15,6 +15,8 @@ spring_2019_videos: https://www.youtube.com/playlist?list=PLCgD3ws8aVdrugzrofJy_
 
 This course teaches the topics of recursion, algorithms, and abstraction using C++.
 
+[QT Creator Setup](https://web.stanford.edu/dept/cs_edu/resources/qt/)
+
 Book: https://web.stanford.edu/dept/cs_edu/resources/textbook/
 
 Stanford C++ Libraries: http://www.martinstepp.com/cppdoc/
