@@ -24,3 +24,8 @@ Though SICP can be challenging, many consider it a transformational experience. 
 ## 6.001: {{ page.subtitle }}
 
 | School: MIT | Instructor: Hal Abelson and Gerald Jay Sussman | Course: [6.001](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) | [Videos](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)| Book: [PDF](https://web.mit.edu/6.001/6.037/sicp.pdf) [HTML](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html) |
+
+
+
+
+https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
